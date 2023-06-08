@@ -12,7 +12,7 @@ The Project is implemented in embedded C using the AVR Atmega328P microcontrolle
 * Embedded C Language: The code is written in Embedded C
 
 
-# Hardware components
+# Hardware Components
 
 * AVR Atmega328P microcontroller
 * Ultrasonic sensor
