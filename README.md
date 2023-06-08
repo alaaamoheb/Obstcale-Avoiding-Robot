@@ -4,7 +4,7 @@ The Project is implemented in embedded C using the AVR Atmega328P microcontrolle
 
 
 
-Features
+# Features
 
 Autonomous obstacle avoidance: The robot uses an Ultrasonic sensor to detect obstacles in its path and employs control algorithms to avoid them.
 Motor control: The code controls the direction and speed of the robot's movement using the L298N Motor Driver.
@@ -12,7 +12,7 @@ Sensor integration: The Ultrasonic sensor is utilized to perceive the environmen
 Embedded C Language: The code is written in Embedded C, which is a widely used programming language for microcontroller-based projects.
 Hardware Requirements
 
-hardware components:
+# hardware components:
 
 AVR Atmega328P microcontroller
 Ultrasonic sensor
@@ -21,8 +21,6 @@ Motors for robot movement
 Power supply
 Chassis and wheels for the robot
 
-Software Requirements
-
-The project requires the following software:
+# Software Requirements
 
 AVR C Compiler: AVR Microship studio 
