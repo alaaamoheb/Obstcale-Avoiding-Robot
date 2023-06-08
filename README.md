@@ -26,9 +26,6 @@ The Project is implemented in embedded C using the AVR Atmega328P microcontrolle
 
 AVR C Compiler: AVR Microship studio 
 
-# Demo
-![Robot-IMG](https://github.com/alaaamoheb/Obstcale-Avoiding-Robot/assets/106888094/e1d949b0-2577-4045-858b-1af953a87b44)
-
-# Simulation
-
-![Simulation](https://github.com/alaaamoheb/Obstcale-Avoiding-Robot/assets/106888094/81cda9f1-b60f-4eca-bb69-8cf710cfbc56)
+# Simulation & Wiring Components
+* ![Robot-IMG](https://github.com/alaaamoheb/Obstcale-Avoiding-Robot/assets/106888094/e1d949b0-2577-4045-858b-1af953a87b44)
+* ![Simulation](https://github.com/alaaamoheb/Obstcale-Avoiding-Robot/assets/106888094/81cda9f1-b60f-4eca-bb69-8cf710cfbc56)
