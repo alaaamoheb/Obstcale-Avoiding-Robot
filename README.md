@@ -12,7 +12,7 @@ Sensor integration: The Ultrasonic sensor is utilized to perceive the environmen
 Embedded C Language: The code is written in Embedded C, which is a widely used programming language for microcontroller-based projects.
 Hardware Requirements
 
-# hardware components:
+# Hardware components:
 
 AVR Atmega328P microcontroller
 Ultrasonic sensor
@@ -20,6 +20,7 @@ L298N Motor Driver module
 Motors for robot movement
 Power supply
 Chassis and wheels for the robot
+Jumper Wires
 
 # Software Requirements
 
